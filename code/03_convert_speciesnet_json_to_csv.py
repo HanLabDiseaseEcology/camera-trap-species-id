@@ -38,6 +38,8 @@
 
 
 ########### TESTimport json
+########### TEST
+import json
 import os
 import re
 
